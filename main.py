@@ -5,7 +5,7 @@ import calendar
 
 # === CONFIG ===
 JIRA_URL = "https://jira.cargo-partner.com"
-USERNAME = "pnXXXX"  # Your Jira username
+USERNAME = "XXXX"  # Your Jira username
 PAT = "XXXX"  # Paste your PAT here
 
 HEADERS = {
